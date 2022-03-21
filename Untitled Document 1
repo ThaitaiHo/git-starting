@@ -1,0 +1,14 @@
+- What is git? What is it used for?
+- Basic flow to work with git:
++ Keep working copy up-to-date, include resolving conflicts
++ Commit, push code to remote repository
+
+- Git branch
++ What is it? why do we use it?
++ Action with branches: create branch, merge branch, remove branch
+
+- Git basic command: stash, fetch, pull, merge, rebase, checkout, add, commit, push, status.
+
+- Git tools: know some tools and their usages, such as: git cola (Ubuntu), source tree (Windows / MacOS)
+- Configure multiple SSH identities
+hhj
